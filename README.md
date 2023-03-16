@@ -20,4 +20,4 @@ This is a simple Dice Game to display my knowledge of HTML, CSS, JS, Markdown an
 Game started and the dice are thrown...
 * Refresh the page to play again
 ### Screenshot
-<img width="871" alt="Screenshot 2023-03-16 at 17 20 23" src="https://user-images.githubusercontent.com/100515728/225685865-18491f1c-b9c6-409c-a622-1db40e6fffca.png">
+<img width="720" alt="Screenshot 2023-03-16 at 19 47 40" src="https://user-images.githubusercontent.com/100515728/225723155-ed8f7a61-acf3-4ff8-b82a-ca68c1316d58.png">
