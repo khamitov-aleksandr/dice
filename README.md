@@ -1,7 +1,7 @@
 # The Dicee Game 
 
 ## About the Project
-This is a simple Dicee Game to display my knowledge of HTML, CSS, JS and GIT. Just try to play and enjoy!
+This is a simple Dice Game to display my knowledge of HTML, CSS, JS, Markdown and GIT. Just try to play and enjoy!
 
 ## Objectives
 * How to use meta tags, include fonts;
@@ -17,4 +17,4 @@ This is a simple Dicee Game to display my knowledge of HTML, CSS, JS and GIT. Ju
 
 ### How to play
 * Open a webpage: [The Dice Game](https://khamitov-aleksandr.github.io/dice)
-Game started and the dice are thrown
+Game started and the dice are thrown...
