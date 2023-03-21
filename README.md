@@ -1,4 +1,4 @@
-# The Dicee Game 
+# The Dice Game 
 
 ## About the Project
 This is a simple Dice Game to display my knowledge of HTML, CSS, JS, Markdown and GIT. Just try to play and enjoy!
